@@ -1,4 +1,4 @@
-View site [here](https://kkimoto22.github.io/Plotly_Belly_Button/)
+View site [here](https://kkimoto22.github.io/Plotly_Belly_Button/) 
 
 # Plot.ly Homework - Belly Button Biodiversity
 
