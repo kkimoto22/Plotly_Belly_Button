@@ -1,3 +1,5 @@
+View site [here](https://kkimoto22.github.io/Plotly_Belly_Button/)
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
